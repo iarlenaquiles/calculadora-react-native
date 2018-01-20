@@ -3,6 +3,6 @@ import { View, Text } from 'react-native';
 
   export default props => (
   		<View>
-  		   <Text>Resultado</Topo>
+  		   <Text>Resultado</Text>
   		</View>
   );
