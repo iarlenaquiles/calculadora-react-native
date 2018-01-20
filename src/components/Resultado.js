@@ -5,4 +5,4 @@ import { View, Text } from 'react-native';
   		<View>
   		   <Text>Resultado</Topo>
   		</View>
-  )
+  );
