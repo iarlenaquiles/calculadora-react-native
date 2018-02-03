@@ -1,3 +1,3 @@
- export * from './Painel';
- export * from './Resultado';
- export * from './Topo';
+ export { Painel } from './Painel';
+ export { Resultado } from './Resultado';
+ export { Topo } from './Topo';
