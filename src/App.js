@@ -1,9 +1,7 @@
 import React from 'react';
 import { View } from 'react-native';
 
-import Topo from './components/Topo';
-import Resultado from './components/Resultado';
-import Painel from './components/Painel';
+import { Topo, Painel, Resultado } from './components';
 
 export default props => (
     <View>
