@@ -4,6 +4,7 @@ import {View, TextInput } from 'react-native';
 
  export default props => (
  	<View>
- 		<TextInput placeholder='Resultado' />
+ 		<TextInput placeholder='Resultado'
+ 		editable={false} />
  	</View>
  );
