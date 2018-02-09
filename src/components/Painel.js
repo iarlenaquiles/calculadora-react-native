@@ -7,7 +7,9 @@ import Comando from './Comando';
 
 const Painel = props => (
   		<View>
-  		   <Text>Painel</Text>
+  		   <Entrada />
+  		   <Operacao />
+  		   <Comando />
   		</View>
   );
 
