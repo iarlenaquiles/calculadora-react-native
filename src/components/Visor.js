@@ -4,6 +4,6 @@ import {View, TextInput } from 'react-native';
 
  export default props => (
  	<View>
- 		<TextInput />
+ 		<TextInput placeholder='Resultado' />
  	</View>
  );
