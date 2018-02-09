@@ -6,4 +6,5 @@ import {View, Text } from 'react-native';
  	<View>
  		<Text>Visor</Text>
  	</View>
- )
+ );
+ 
